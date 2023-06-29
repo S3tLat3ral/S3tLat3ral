@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S3tLat3ral
-- 👀 I’m interested in data integrations and software extention
+- 👀 I’m interested in data integrations and LLM AI innovation
 - 🌱 I’m currently learning C#, R, Python, Javascript, Type Script, php and various scripting languages
 
 <!---
