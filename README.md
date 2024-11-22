@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @S3tLat3ral
+- 👋 Hi, I’m Beset
 - 👀 I’m interested in data integrations and LLM AI innovation
-- 🌱 I’m currently learning C#, R, Python, Javascript, Type Script, php and various scripting languages
-
-<!---
-S3tLat3ral/S3tLat3ral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
